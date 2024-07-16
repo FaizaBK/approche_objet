@@ -1,4 +1,4 @@
-package fr.dignamic.liste;
+package fr.diginamic.banque.liste;
 
 public class Ville {
     private String nom;
@@ -21,6 +21,6 @@ public class Ville {
         return nombreHabitants == autre.nombreHabitants && nom.equals(autre.nom);
     }
 
-    public void setNombreHabitants(int i) {
+    public void setNombreHabitants() {
     }
 }

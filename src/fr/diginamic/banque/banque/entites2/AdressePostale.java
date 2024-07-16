@@ -1,4 +1,4 @@
-package fr.dignamic.banque.entites;
+package fr.diginamic.banque.banque.entites2;
 
 public class AdressePostale {
 

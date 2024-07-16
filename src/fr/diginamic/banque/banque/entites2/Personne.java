@@ -1,6 +1,4 @@
-package fr.dignamic.banque.entites.entites2;
-
-import fr.dignamic.banque.entites.AdressePostale;
+package fr.diginamic.banque.banque.entites2;
 
 public class Personne {
     public String nom;

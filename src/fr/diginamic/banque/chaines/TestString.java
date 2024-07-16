@@ -1,4 +1,4 @@
-package fr.dignamic.chaines;
+package fr.diginamic.banque.chaines;
 
 public class TestString {
     public static void main(String[] args) {
