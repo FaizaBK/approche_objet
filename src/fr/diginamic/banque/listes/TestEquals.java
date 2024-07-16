@@ -1,4 +1,4 @@
-package fr.diginamic.banque.liste;
+package fr.diginamic.banque.listes;
 
 public class TestEquals {
     public static void main(String[] args) {
@@ -11,12 +11,12 @@ public class TestEquals {
         System.out.println(ville1.equals(ville2));
 
         // Modification d'un attribut d'une des villes
-        ville2.setNombreHabitants();
+        ville2.getNbHabitants();
 
         // Test de la méthode equals() avec un attribut différent
         System.out.println(ville1.equals(ville2));
 
-        // Test de l'opérateur ==
+        // Test de lopérateur ==
         System.out.println(ville1 == ville2);
 
         // Création d'une nouvelle référence pour ville1
