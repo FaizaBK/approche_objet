@@ -10,7 +10,6 @@ public class TestEquals {
         // Test de la méthode equals()
         System.out.println(ville1.equals(ville2));
 
-        // Modification d'un attribut d'une des villes
         ville2.getNbHabitants();
 
         // Test de la méthode equals() avec un attribut différent
