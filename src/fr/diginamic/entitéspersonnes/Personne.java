@@ -1,4 +1,4 @@
-package fr.diginamic.banque.banque.entites2;
+package fr.diginamic.entitéspersonnes;
 
 public class Personne {
     public String nom;
