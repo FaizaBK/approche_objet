@@ -16,7 +16,7 @@ public class TestContinentEnum {
         villes.add(new Ville("Sao Paulo", 22000000, Continent.AMERIQUE));
         villes.add(new Ville("Dakar", 2500000, Continent.AFRIQUE));
 
-        // Affichez toutes les villes avec leur continent
+        // Afficher les villes avec leur continent
         for (Ville ville : villes) {
             System.out.println(ville);
         }

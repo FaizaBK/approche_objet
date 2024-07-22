@@ -4,8 +4,8 @@ public class TestEquals {
     public static void main(String[] args) {
         // Création de deux instances de Ville avec les mêmes attributs
 
-        Ville ville1 = new Ville("Toulouse", 500_000, Continent.AMERIQUE);
-        Ville ville2 = new Ville("Toulouse", 500_000, Continent.AMERIQUE);
+        Ville ville1 = new Ville("Toulouse", 500_000, Continent.EUROPE);
+        Ville ville2 = new Ville("Toulouse", 500_000, Continent.EUROPE);
 
         // Test de la méthode equals()
         System.out.println(ville1.equals(ville2));
